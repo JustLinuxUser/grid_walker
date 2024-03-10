@@ -1,0 +1,12 @@
+[package]
+name = "speed"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+speedy2d = "*"
+pathfinding = "4.9.1"
+cli-clipboard = "0.4.0"
+rand = "*"
